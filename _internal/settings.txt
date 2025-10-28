@@ -1,0 +1,6 @@
+Level 1=0
+Level 2=8
+Level 3=15
+save_path=default
+curve_color=#ff0000
+point_colors=levels
