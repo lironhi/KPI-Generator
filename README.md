@@ -1,5 +1,8 @@
 # KPI Generator
-
+<p align="center">
+  <img src="main_gui.png" width="300">
+  <img src="Screenshot_6.png" width="300">
+</p>
 ## Description
 KPI Generator is a simple tool designed to generate graphs from CSV files to visualize key performance indicators (KPIs) of sales agents.
 
